@@ -1,0 +1,3 @@
+﻿  pointing.cpp
+C:\Users\Аня\Desktop\chapter7\pointing\pointing\pointing.cpp(6,7): warning C4101: pAPointer: неиспользованная локальная переменная
+  pointing.vcxproj -> C:\Users\Аня\Desktop\chapter7\pointing\Debug\pointing.exe
